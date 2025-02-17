@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{550FA9E3-39E8-439D-929E-AB0A3F346B2F}|Infrastructure\\FirstApiProject.Infrastructure\\FirstApiProject.Infrastructure.csproj|c:\\users\\ismay_ri63\\desktop\\mywebapiproject\\firstapiproject\\infrastructure\\firstapiproject.infrastructure\\data\\myappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{550FA9E3-39E8-439D-929E-AB0A3F346B2F}|Infrastructure\\FirstApiProject.Infrastructure\\FirstApiProject.Infrastructure.csproj|solutionrelative:infrastructure\\firstapiproject.infrastructure\\data\\myappdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|c:\\users\\ismay_ri63\\desktop\\mywebapiproject\\firstapiproject\\core\\firstapiproject.domain\\entites\\abstracts\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|solutionrelative:core\\firstapiproject.domain\\entites\\abstracts\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|c:\\users\\ismay_ri63\\desktop\\mywebapiproject\\firstapiproject\\core\\firstapiproject.domain\\entites\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|solutionrelative:core\\firstapiproject.domain\\entites\\concretes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|c:\\users\\ismay_ri63\\desktop\\mywebapiproject\\firstapiproject\\core\\firstapiproject.domain\\entites\\concretes\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}|Core\\FirstApiProject.Domain\\FirstApiProject.Domain.csproj|solutionrelative:core\\firstapiproject.domain\\entites\\concretes\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAppDb.cs",
+              "DocumentMoniker": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Infrastructure\\FirstApiProject.Infrastructure\\Data\\MyAppDb.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\FirstApiProject.Infrastructure\\Data\\MyAppDb.cs",
+              "ToolTip": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Infrastructure\\FirstApiProject.Infrastructure\\Data\\MyAppDb.cs",
+              "RelativeToolTip": "Infrastructure\\FirstApiProject.Infrastructure\\Data\\MyAppDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:29:59.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Concretes\\Shipper.cs",
+              "RelativeDocumentMoniker": "Core\\FirstApiProject.Domain\\Entites\\Concretes\\Shipper.cs",
+              "ToolTip": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Concretes\\Shipper.cs",
+              "RelativeToolTip": "Core\\FirstApiProject.Domain\\Entites\\Concretes\\Shipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:27:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Concretes\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\FirstApiProject.Domain\\Entites\\Concretes\\Category.cs",
+              "ToolTip": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Concretes\\Category.cs",
+              "RelativeToolTip": "Core\\FirstApiProject.Domain\\Entites\\Concretes\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:25:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Abstracts\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\FirstApiProject.Domain\\Entites\\Abstracts\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ismay_ri63\\Desktop\\MyWebApiProject\\FirstApiProject\\Core\\FirstApiProject.Domain\\Entites\\Abstracts\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\FirstApiProject.Domain\\Entites\\Abstracts\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:24:37.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

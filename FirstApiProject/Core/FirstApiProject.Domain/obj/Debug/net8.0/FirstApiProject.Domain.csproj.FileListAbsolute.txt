@@ -1,0 +1,11 @@
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\bin\Debug\net8.0\FirstApiProject.Domain.deps.json
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\bin\Debug\net8.0\FirstApiProject.Domain.dll
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\bin\Debug\net8.0\FirstApiProject.Domain.pdb
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.AssemblyInfoInputs.cache
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.AssemblyInfo.cs
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.dll
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\refint\FirstApiProject.Domain.dll
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\FirstApiProject.Domain.pdb
+C:\Users\ismay_ri63\Desktop\MyWebApiProject\FirstApiProject\Core\FirstApiProject.Domain\obj\Debug\net8.0\ref\FirstApiProject.Domain.dll
