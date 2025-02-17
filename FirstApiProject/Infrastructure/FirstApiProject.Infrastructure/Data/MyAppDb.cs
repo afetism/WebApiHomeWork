@@ -11,8 +11,8 @@ public class MyAppDb : DbContext
     {
     }
    
-    DbSet<Category> Categories { get; set; }
-    DbSet<Shipper> Shippers { get; set; }
+   public DbSet<Category> Categories { get; set; }
+   public DbSet<Shipper> Shippers { get; set; }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Category>(e =>

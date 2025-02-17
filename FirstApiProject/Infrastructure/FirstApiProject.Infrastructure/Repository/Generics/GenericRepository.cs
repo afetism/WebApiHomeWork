@@ -1,10 +1,11 @@
 ﻿using FirstApiProject.Application.Repository.Generics;
+using FirstApiProject.Domain.Entites.Abstracts;
 using FirstApiProject.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace FirstApiProject.Infrastructure.Repository.Generics;
 
-public class GenericRepository<T>(MyAppDb myAppDb) : IGenericRepository<T> where T : class
+public class GenericRepository<T>(MyAppDb myAppDb) : IGenericRepository<T> where T : class,IEntity
 {
     private readonly MyAppDb _myAppDb= myAppDb;
 
@@ -16,9 +17,9 @@ public class GenericRepository<T>(MyAppDb myAppDb) : IGenericRepository<T> where
         return await _myAppDb.SaveChangesAsync() > 0;
     }
 
-    public  bool Delete(int id)
+    public  bool Delete(T Entity)
     {
-         _myAppDb.Remove(id);
+        _myAppDb.Remove(Entity);
         return  _myAppDb.SaveChanges() > 0;
      
     }

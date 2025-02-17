@@ -1,0 +1,16 @@
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\bin\Debug\net8.0\FirstApiProject.Application.deps.json
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\bin\Debug\net8.0\FirstApiProject.Application.dll
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\bin\Debug\net8.0\FirstApiProject.Application.pdb
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\bin\Debug\net8.0\FirstApiProject.Domain.dll
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\bin\Debug\net8.0\FirstApiProject.Domain.pdb
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.AssemblyInfo.cs
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.sourcelink.json
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.csproj.CopyComplete
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.dll
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\refint\FirstApiProject.Application.dll
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\FirstApiProject.Application.pdb
+C:\Users\user\Source\Repos\WebApiHomeWork\FirstApiProject\Core\FirstApiProject.Application\obj\Debug\net8.0\ref\FirstApiProject.Application.dll

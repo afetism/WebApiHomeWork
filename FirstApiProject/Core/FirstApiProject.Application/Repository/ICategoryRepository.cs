@@ -1,8 +1,9 @@
 ﻿using FirstApiProject.Application.Repository.Generics;
+using FirstApiProject.Domain.Entites.Concretes;
 
 namespace FirstApiProject.Application.Repository;
 
-public interface ICategoryRepository<T> : IGenericRepository<T> where T : class
+public interface ICategoryRepository: IGenericRepository<Category>
 {
 
 }
