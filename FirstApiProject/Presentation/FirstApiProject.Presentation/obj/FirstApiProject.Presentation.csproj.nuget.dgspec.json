@@ -244,6 +244,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -293,6 +299,9 @@
               },
               "C:\\Users\\user\\source\\repos\\WebApiHomeWork\\FirstApiProject\\Infrastructure\\FirstApiProject.Infrastructure\\FirstApiProject.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\user\\source\\repos\\WebApiHomeWork\\FirstApiProject\\Infrastructure\\FirstApiProject.Infrastructure\\FirstApiProject.Infrastructure.csproj"
+              },
+              "C:\\Users\\user\\source\\repos\\WebApiHomeWork\\FirstApiProject\\Infrastructure\\FirstApiProject.Persistence\\FirstApiProject.Persistence.csproj": {
+                "projectPath": "C:\\Users\\user\\source\\repos\\WebApiHomeWork\\FirstApiProject\\Infrastructure\\FirstApiProject.Persistence\\FirstApiProject.Persistence.csproj"
               }
             }
           }

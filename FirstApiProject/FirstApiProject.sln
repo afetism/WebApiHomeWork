@@ -5,19 +5,19 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F5AD2BF8-70B4-4D2F-A893-76C16ED88551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiProject.Domain", "Core\FirstApiProject.Domain\FirstApiProject.Domain.csproj", "{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApiProject.Domain", "Core\FirstApiProject.Domain\FirstApiProject.Domain.csproj", "{7DDA2D89-9EDF-4341-9CFD-03F783D74DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiProject.Application", "Core\FirstApiProject.Application\FirstApiProject.Application.csproj", "{70E9D08E-E3C7-45CC-AE79-8EB4146C6314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApiProject.Application", "Core\FirstApiProject.Application\FirstApiProject.Application.csproj", "{70E9D08E-E3C7-45CC-AE79-8EB4146C6314}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{56826099-CE7A-4193-B7A2-06B3FBE775AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiProject.Infrastructure", "Infrastructure\FirstApiProject.Infrastructure\FirstApiProject.Infrastructure.csproj", "{550FA9E3-39E8-439D-929E-AB0A3F346B2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApiProject.Infrastructure", "Infrastructure\FirstApiProject.Infrastructure\FirstApiProject.Infrastructure.csproj", "{550FA9E3-39E8-439D-929E-AB0A3F346B2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiProject.Persistence", "Infrastructure\FirstApiProject.Persistence\FirstApiProject.Persistence.csproj", "{3A0A62E0-1D75-4962-BEFE-83ED6D6CB3B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApiProject.Persistence", "Infrastructure\FirstApiProject.Persistence\FirstApiProject.Persistence.csproj", "{3A0A62E0-1D75-4962-BEFE-83ED6D6CB3B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{65E482FD-E4A4-46AF-B422-696F23B9AFBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstApiProject.Presentation", "Presentation\FirstApiProject.Presentation\FirstApiProject.Presentation.csproj", "{A7E52647-FFB9-47C3-AE6F-AE60D9686B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstApiProject.Presentation", "Presentation\FirstApiProject.Presentation\FirstApiProject.Presentation.csproj", "{A7E52647-FFB9-47C3-AE6F-AE60D9686B74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
